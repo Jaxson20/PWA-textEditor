@@ -18,6 +18,7 @@ module.exports = () => {
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [
+     //THIS PART COMPLETED
       new HtmlWebpackPlugin({
         template: './src/index.html',
       }),
