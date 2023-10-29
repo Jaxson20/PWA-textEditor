@@ -20,7 +20,7 @@ module.exports = () => {
     plugins: [
      //THIS PART COMPLETED
       new HtmlWebpackPlugin({
-        template: './src/index.html',
+        template: './index.html',
       }),
       new WebpackPwaManifest({
         name: 'PWA Text Editor',
