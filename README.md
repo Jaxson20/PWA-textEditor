@@ -7,8 +7,23 @@ Clone the repository to your local machine.
 Open the index.html file in your web browser.
 Alternatively, you can access the live version of the J.A.T.E application online.
 
+# usage
+Open the J.A.T.E application in your web browser.
+Start creating and editing text content in the text editor.
+Changes are automatically saved to local storage. You can close the application and return later to resume your work.
+You can also install the application on your device for offline use.
+Screenshots
 # Visual Studio Code  
+
+# website picture
 
 # Credits 
 KU Bootcamp, Module 19, Google.
 
+# License MIT License
+
+Copyright (c) 2023 Jaxson20
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
