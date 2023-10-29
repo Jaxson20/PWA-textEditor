@@ -14,9 +14,9 @@ Changes are automatically saved to local storage. You can close the application 
 You can also install the application on your device for offline use.
 Screenshots
 # Visual Studio Code  
-
+https://1drv.ms/i/s!AjsvYdlJ0aVdhjOJmkSjJJWYZIVG?e=EqzgIg
 # website picture
-
+https://1drv.ms/i/s!AjsvYdlJ0aVdhjRDr4Kc9Rs7ziFV?e=cWcD0d
 # Credits 
 KU Bootcamp, Module 19, Google.
 
